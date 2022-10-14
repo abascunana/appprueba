@@ -1,1 +1,0 @@
-*App android detección de gestos*
