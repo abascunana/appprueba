@@ -1,1 +1,1 @@
-# App detección de gestos android mas cambio de actividad en botón
+# App detección de gestos android más cambio de actividad en botón
